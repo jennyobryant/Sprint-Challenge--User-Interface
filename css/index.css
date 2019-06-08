@@ -104,12 +104,51 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+   /* background: black;*/
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.box1{
+    background: teal; 
+}
+
+.box2{
+    background: gold; 
+}
+
+.box3{
+    background:cadetblue; 
+}
+
+.box4{
+    background:coral; 
+}
+
+.box5{
+    background: crimson; 
+}
+
+.box6{
+    background:forestgreen; 
+}
+
+.box7{
+    background:darkorchid;
+}
+
+.box8{
+    background:hotpink;
+}
+
+.box9{
+    background: indigo;
+}
+
+.box10{
+    background: dodgerblue;
 }
 
 .bottom-content {
@@ -144,3 +183,28 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.header{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.logo{
+    margin-right: 70px;
+}
+.nar{
+    display: flex;
+    margin-right: 15px;
+    vertical-align: top;
+    padding-top: 22px; 
+}
+
+.lists{
+    display: inline;
+    margin-right: 60px; 
+}
+
+.p1{
+    margin-bottom: 32px;
+}
+
