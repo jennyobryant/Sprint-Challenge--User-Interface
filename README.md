@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-The word “Semantic” is to describe tags with meaning.  That include <h1><p><nav><header> etc.  And other tag like <div>, it just a general tag, no meaning. 
+The word “Semantic” is to describe tags with meaning.  That include `<h1><p><nav><header>` etc.  And other tag like `<div>`, it just a general tag, no meaning. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 

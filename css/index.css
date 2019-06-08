@@ -168,6 +168,7 @@ p {
 footer {
     width: 100%;
     background: black;
+    margin-top: 30px;
 }
 
 footer nav {
@@ -202,9 +203,60 @@ footer nav a {
 .lists{
     display: inline;
     margin-right: 60px; 
+    text-decoration: none;
+    color: black; 
 }
 
 .p1{
     margin-bottom: 32px;
 }
 
+.p2{
+    margin-bottom: 32px;
+}
+
+.linetop{
+	margin-top: 30px;
+	margin-bottom: 25px;
+	border-style: dashed; 
+}
+
+.content-box-container{
+    display: flex;
+}
+
+.content-boxes{
+ 
+	background-color: white;
+	padding: 18px;
+	
+}
+
+button{
+    background: white; 
+	border: 2px solid black;
+    padding: 7px 25px;
+    border-radius: 8px;
+}
+
+
+.second-button{
+	margin-top: 20px;
+}
+.line1 {
+	margin-top: 30px;
+	margin-bottom: 25px;
+	border-style: dashed; 
+}
+
+.section{
+    margin-top:20px;
+}
+
+.title{
+    margin-left:20px;
+}
+
+.paragraph{
+    margin-left:20px;
+}
